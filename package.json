@@ -1,0 +1,29 @@
+{
+  "name": "short-async",
+  "version": "1.0.0",
+  "description": "Simpe and minimalistic co wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teologov/short-async.git"
+  },
+  "keywords": [
+    "co",
+    "async",
+    "flow",
+    "coroutine",
+    "generator"
+  ],
+  "author": "Andrew Teologov <teologov.and@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teologov/short-async/issues"
+  },
+  "homepage": "https://github.com/teologov/short-async#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
