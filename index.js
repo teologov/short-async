@@ -1,5 +1,5 @@
 /*!
- * 
+ * short-async
  * @author Andrew Teologov <teologov.and@gmail.com>
  * @date 2/8/16
  */
