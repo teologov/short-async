@@ -1,5 +1,5 @@
 # short-async
-Simpe and minimalistic [co](https://github.com/tj/co) wrapper.
+Simple and minimalistic [co](https://github.com/tj/co) wrapper.
 ## Requirements
 * Node.js >= 4
 
